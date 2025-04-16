@@ -1,1 +1,1 @@
-# retail-sales-analyzer
+# Retail-Sales-Analyzer
