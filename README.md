@@ -1,4 +1,4 @@
-# Retail Sales Analyzer 
+# Retail Sales Analyzer
 
 A simple data analysis tool built in Python using pandas and matplotlib.
 
